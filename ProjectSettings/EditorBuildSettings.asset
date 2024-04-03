@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Unity Snap Experiments.unity
+    guid: f0bf997a93f1dd046b5324e4d1e58d9a
   m_configObjects: {}
